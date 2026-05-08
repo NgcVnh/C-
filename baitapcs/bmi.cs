@@ -54,9 +54,9 @@ class BMI
     }
 
     // hàm main
-    static void Main(string[] args)
-    {
-        BMI b = new BMI();
-        b.TinhBMI();
-    }
+    // static void Main(string[] args)
+    // {
+    //     BMI b = new BMI();
+    //     b.TinhBMI();
+    // }
 }
