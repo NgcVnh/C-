@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="baitapcs\BAiTapVonglap\" />
     <Folder Include="Service\" />
     <Folder Include="User\" />
   </ItemGroup>
