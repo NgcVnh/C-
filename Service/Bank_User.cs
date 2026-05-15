@@ -18,10 +18,14 @@ namespace C_.Service
             get;
             set;
         }
+        private int rut;
         public int Rut
         {
-            get;
-            set;
+            get{return rut;}
+            set
+            {
+                rut=value;
+            }
         }
 
         public void NapTien()

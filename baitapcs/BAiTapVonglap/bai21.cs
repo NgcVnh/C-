@@ -20,9 +20,9 @@ public class bai21
     }
 
 
-    static void Main(string[] args)
-    {
-        int n = int.Parse(Console.ReadLine());
-        hinh1(n);
-    }
+    // static void Main(string[] args)
+    // {
+    //     int n = int.Parse(Console.ReadLine());
+    //     hinh1(n);
+    // }
 }
