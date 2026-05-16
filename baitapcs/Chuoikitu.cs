@@ -12,7 +12,7 @@
         // System.Console.WriteLine(ss);
 
         // //tach chuoi thanh ki tu le
-        // string s1="hello works";
+        // string s1="hello world";
         // System.Console.WriteLine(s1.Length);// do dai chuoi
         // char[] lst=s1.ToCharArray();
         // System.Console.WriteLine(lst);
