@@ -4,8 +4,8 @@ namespace C_.baitapcs;
 
 public class Chuoikitu
 {
-        static void Main(string[] args)
-        {
+        // static void Main(string[] args)
+        // {
                 // string s = "day la chuoi ki tu";
                 // string ss="@hello \n toi ten vinh \t nam nay toi 20 tuoi \\ hoc tai dai hoc sai gon \' \" ";
                 // System.Console.WriteLine(s);
@@ -83,31 +83,31 @@ public class Chuoikitu
                 // }
                 // System.Console.WriteLine($"{string.Join("-", tachchuoi)}");//gop chuoi 
                 //baitap1 tinh tong cua cac mon hoc
-                string str1 = "English= 78 Scinece= 83 Math= 68 History= 65";
-                string[] str2 = str1.Split(' ');
-                string str3 = "";
-                foreach (string i in str2)
-                {
-                        foreach (char c in i)
-                        {
-                                if (char.IsDigit(c))
-                                {
-                                        str3 += " " + i;
-                                        break;
-                                }
-                        }
-                }
-                //System.Console.WriteLine(str3);
-                string[] str4 = str3.Trim().Split(" ");
-                int sum = 0;
-                double tbc = 0.0;
-                foreach (string i in str4)
-                {
-                        sum += int.Parse(i);
-                        tbc = sum*1.0 / str4.Length;
-                }
-                System.Console.Write($"{string.Join("+", str4)}");
-                System.Console.WriteLine($"={sum}");
-                System.Console.WriteLine($"trung binh cong :  {tbc}");
-        }
+                // string str1 = "English= 78 Scinece= 83 Math= 68 History= 65";
+                // string[] str2 = str1.Split(' ');
+                // string str3 = "";
+                // foreach (string i in str2)
+                // {
+                //         foreach (char c in i)
+                //         {
+                //                 if (char.IsDigit(c))
+                //                 {
+                //                         str3 += " " + i;
+                //                         break;
+                //                 }
+                //         }
+                // }
+                // //System.Console.WriteLine(str3);
+                // string[] str4 = str3.Trim().Split(" ");
+                // int sum = 0;
+                // double tbc = 0.0;
+                // foreach (string i in str4)
+                // {
+                //         sum += int.Parse(i);
+                //         tbc = sum*1.0 / str4.Length;
+                // }
+                // System.Console.Write($"{string.Join("+", str4)}");
+                // System.Console.WriteLine($"={sum}");
+                // System.Console.WriteLine($"trung binh cong :  {tbc}");
+   //     }
 }

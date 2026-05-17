@@ -1,10 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
-namespace C_.baitapcs;
+// using System;
+// using System.Collections.Generic;
+// using System.Threading.Tasks;
+// namespace C_.baitapcs;
 
-public class math
-{   
+// public class math
+// {   
     /*
     Math.PI
     Math.Sqrt(x) can bat 2
@@ -19,4 +19,4 @@ public class math
     // {
     //     System.Console.WriteLine("PI="+Math.PI);
     // }
-}
+//}

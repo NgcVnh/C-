@@ -1,0 +1,15 @@
+D:\Document\hoclaptrinh\c#\baitapcs\bin\Debug\net10.0\baitapcs.exe
+D:\Document\hoclaptrinh\c#\baitapcs\bin\Debug\net10.0\baitapcs.deps.json
+D:\Document\hoclaptrinh\c#\baitapcs\bin\Debug\net10.0\baitapcs.runtimeconfig.json
+D:\Document\hoclaptrinh\c#\baitapcs\bin\Debug\net10.0\baitapcs.dll
+D:\Document\hoclaptrinh\c#\baitapcs\bin\Debug\net10.0\baitapcs.pdb
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\baitapcs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\baitapcs.AssemblyInfoInputs.cache
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\baitapcs.AssemblyInfo.cs
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\baitapcs.csproj.CoreCompileInputs.cache
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\baitapcs.sourcelink.json
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\baitapcs.dll
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\refint\baitapcs.dll
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\baitapcs.pdb
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\baitapcs.genruntimeconfig.cache
+D:\Document\hoclaptrinh\c#\baitapcs\obj\Debug\net10.0\ref\baitapcs.dll
