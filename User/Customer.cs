@@ -5,11 +5,11 @@ namespace C_.User;
 
 public class Customer
 {
-    public string NameCustomer { get ; set; }
+    public string NameCustomer { get; set; }
     public int Tuoi { get; set; }
     public int soDu
     {
-        get ;
+        get;
         set;
     }
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("baitapcs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+145c812915ce242925ec35acf52118490132ea67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaf2ca18cc8ec0f14a6492b1cb37235f1a3b4166")]
 [assembly: System.Reflection.AssemblyProductAttribute("baitapcs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("baitapcs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

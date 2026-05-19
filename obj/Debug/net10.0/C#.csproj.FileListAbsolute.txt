@@ -7,9 +7,9 @@ D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\C#.GeneratedMSBuildEditorConfig.edi
 D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\C#.AssemblyInfoInputs.cache
 D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\C#.AssemblyInfo.cs
 D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\C#.csproj.CoreCompileInputs.cache
+D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\C#.sourcelink.json
 D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\C#.dll
 D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\refint\C#.dll
 D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\C#.pdb
 D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\C#.genruntimeconfig.cache
 D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\ref\C#.dll
-D:\Document\hoclaptrinh\C#\obj\Debug\net10.0\C#.sourcelink.json

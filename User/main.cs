@@ -3,8 +3,8 @@ using C_.Service;
 
 namespace C_.User;
 
-public class Main
-{
+// public class Main
+// {
     //     static void Main(string[] args)
     //     {
     //         Customer C1 = new Customer("Vinh", 20, 200000);
@@ -45,10 +45,10 @@ public class Main
     //             }
     //         }
     //     }
-    public Main()
-    {
-    }
-}
+    // public Main()
+    // {
+    // }
+// }
 //git add .
 // git commit -m "update"
 // git push

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Document\\hoclaptrinh\\C#\\baitapcs\\C#.csproj",
-      "projectName": "C#",
-      "projectPath": "D:\\Document\\hoclaptrinh\\C#\\baitapcs\\C#.csproj",
+      "projectUniqueName": "D:\\Document\\hoclaptrinh\\C#\\baitapcs\\baitapcs.csproj",
+      "projectName": "baitapcs",
+      "projectPath": "D:\\Document\\hoclaptrinh\\C#\\baitapcs\\baitapcs.csproj",
       "packagesPath": "C:\\Users\\Vinh\\.nuget\\packages\\",
       "outputPath": "D:\\Document\\hoclaptrinh\\C#\\baitapcs\\obj\\",
       "projectStyle": "PackageReference",
