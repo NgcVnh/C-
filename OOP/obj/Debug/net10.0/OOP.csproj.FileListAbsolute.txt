@@ -1,0 +1,15 @@
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\OOP.AssemblyInfoInputs.cache
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\OOP.AssemblyInfo.cs
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\OOP.csproj.CoreCompileInputs.cache
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\OOP.sourcelink.json
+D:\Document\hoclaptrinh\C#\OOP\bin\Debug\net10.0\OOP.exe
+D:\Document\hoclaptrinh\C#\OOP\bin\Debug\net10.0\OOP.deps.json
+D:\Document\hoclaptrinh\C#\OOP\bin\Debug\net10.0\OOP.runtimeconfig.json
+D:\Document\hoclaptrinh\C#\OOP\bin\Debug\net10.0\OOP.dll
+D:\Document\hoclaptrinh\C#\OOP\bin\Debug\net10.0\OOP.pdb
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\OOP.dll
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\refint\OOP.dll
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\OOP.pdb
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\OOP.genruntimeconfig.cache
+D:\Document\hoclaptrinh\C#\OOP\obj\Debug\net10.0\ref\OOP.dll
